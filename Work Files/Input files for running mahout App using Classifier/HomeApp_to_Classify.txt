@@ -1,0 +1,42 @@
+400	#Onida 32" LED  3D
+401	#Dell 1 TB HDD 8GB RAM I7 Processor 
+402	#Toshiba 32" LCD TV with home theatre
+403	#Asus 200 GB HDD 2 GB RAM I3 Processor 
+404	#Toshiba 42" LED 3D 
+405	#Toshiba 72" LED plasma TV
+406	#Whirlpool 200 litres with 3-door player
+407	#Onida 42" LED 3D 
+408	#Asus 200 GB HDD 2 GB RAM I3 Processor 
+409	#Onida 42" LCD TV with DVD
+410	#Onida 72" LED 3D plasma  with home theatre
+411	#Asus 320 GB HDD 8GB RAM I5 Processor with headset
+412	#Dell 500 GB HDD 4GB RAM I5 Processor 
+413	#Whirlpool 520 litres 
+414	#Panasonic 420 litres  with Intelligent thinking
+415	#Asus 200 GB HDD 2 GB RAM I3 Processor 
+416	#Toshiba 72" LCD plasma TV
+417	#Panasonic 320 litres  display Intelligent thinking 3D
+418	#Dell 500 GB HDD 6GB RAM I5 Processor 
+419	#Onida 72" LED plasma with home theatre
+420	#Dell 500 GB HDD 4GB RAM I5 Processor 3D 
+421	#Toshiba 52" LCD TV
+422	#Samsung 21" LED 
+423	#Toshiba 22" LED with music system
+424	#Dell 200 GB HDD 2 GB RAM I3 Processor 
+425	#Dell 1TB HDD 8GB RAM I5 Processor  with 3D and surround sound
+426	#Dell 500 GB HDD 6GB RAM I4 Processor 3D 
+427	#Toshiba 21" LCD with DVD player
+428	#Samsung 40" LED 
+429	#Onida 72" LED plasma TV
+430	#Toshiba 72" LED plasma with home theatre
+431	#Whirlpool 720 litres double door  3D surround Sound Intelligent thinking
+432	#Samsung 440 litres 
+433	#Toshiba 500 GB HDD 4 GB RAM 
+434	#Dell 800 GB HDD 8 GB RAM I3 Processor 
+435	#Dell 4TB HDD 8GB RAM I7 Processor 
+436	#Dell 500 GB HDD Monitor
+437	#Toshiba 21" LCD TV with DVD player
+438	#Samsung 14" screen 500 GB 
+439	#Onida 500 litres 
+440	#Toshiba 72" LED plasma with home theatre and play station
+441	#Whirlpool 300 litres single door  3D surround Sound Intelligent thinking

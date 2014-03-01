@@ -1,0 +1,58 @@
+
+1) To convert the training set to the hadoop sequence file format
+java -cp target/twitter-naive-bayes-example-1.0-jar-with-dependencies.jar com.chimpler.example.bayes.TweetTSVToSeq data/homeapp-train.tsv homeapp-seq
+
+2) To put seq file in hadoop file system
+hadoop fs -put homeapp-seq homeapp-seq
+
+3) to transform training to vectors using tfidf weights.
+mahout seq2sparse -i homeapp-seq -o homeapp-vectors
+
+4) to do the training and check that the classification works fine, Mahout splits the set into two sets: a training set and a testing set:
+mahout split -i homeapp-vectors/tfidf-vectors --trainingOutput train-vectors --testOutput test-vectors --randomSelectionPct 40 --overwrite --sequenceFiles -xm sequential
+
+5) to use training set to train the classifier
+mahout trainnb -i train-vectors -el -li labelindex -o model -ow -c
+
+6) to test if the classifier is working on training set
+mahout testnb -i train-vectors -m model -l labelindex -ow -o homeapp-testing -c
+
+7) to test if the classifier is working on testing set
+mahout testnb -i test-vectors -m model -l labelindex -ow -o homeapp-testing -c
+
+8) Using on TEST data
+java -cp target/twitter-naive-bayes-example-1.0-jar-with-dependencies.jar com.chimpler.example.bayes.TweetTSVToTrainingSetSeq dictionary.file-0 df-count data/homeapp-test.tsv homeapp-test.seq
+
+To get info from hadoop
+hadoop fs -get labelindex labelindex
+hadoop fs -get model model
+hadoop fs -get HomeApp-vectors/dictionary.file-0 dictionary.file-0
+hadoop fs -getmerge tweets-vectors/df-count df-count
+
+9) Classify data
+java -cp target/twitter-naive-bayes-example-1.0-jar-with-dependencies.jar com.chimpler.example.bayes.Classifier model labelindex dictionary.file-0 df-count data/homeapp-classify.tsv
+
+SOLR
+10) Configuration files for a collection are managed as part of the instance directory.
+solrctl instancedir --generate $HOME/solr_configs
+
+11) To upload the content of the entire instance directory to ZooKeeper
+solrctl instancedir --create collection1 $HOME/solr_configs
+
+12) To check if the instance is successfully uploaded to Zoo keeper:
+solrctl instancedir --list
+
+13) To create the first collection from the instance of collection directory
+solrctl collection --create collection1 -s 1
+
+14) Run homeapp_classify.java to convert txt to json format.
+
+15) Push to SOLR:
+curl 'http://localhost:8983/solr/collection1_shard1_replica1/update/json?commit=true' --data-binary @homeapp_classify.json -H 'Content-type:application/json'
+
+
+SOLR instance creation, Steps to be followed:
+1) solrctl instancedir --generate $HOME/solr_configs
+2) solrctl instancedir --create collection1 $HOME/solr_configs
+3) solrctl instancedir --list
+4) solrctl collection --create collection1 -s 1

@@ -1,0 +1,258 @@
+Television	101	#Samsung 21" LCD
+Television	102	#Samsung 70" LED plasma with home theatre
+Refrigerator	103	#Whirlpool 200 litres 
+Television	104	#Onida 52" LED 3D TV
+Laptop	105	#Lenovo 320 GB HDD 4 GB RAM I3 Processor
+Laptop	106	#Dell 320 GB HDD 8GB RAM I3 Processor 
+Refrigerator	107	#Panasonic 340 litres 3D with deep frost
+Laptop	108	#Lenovo 1TB HDD 8GB RAM I5 Processor 3D with headset
+Television	109	#Samsung 32" LED 3D TV with home theatre
+Refrigerator	110	#Whirlpool 460 litres 
+Laptop	111	#Lenovo 750 GB HDD 6GB RAM I7 Processor
+Refrigerator	112	#Panasonic 520 litres 3D
+Laptop 113	#Dell 200 GB HDD 2 GB RAM I3 Processor Laptop
+Television	114	#Onida 40" LED
+Laptop	115	#Lenovo 500 GB HDD 4GB RAM I5 Processor 
+Television	116	#Onida 36" LED TV with dvd
+Laptop	117	#Dell 750 GB HDD 6GB RAM I7 Processor with headset
+Laptop	118	#Lenovo 500 GB HDD 4GB RAM I5 Processor 3D 
+Laptop	119	#Lenovo 500 GB HDD 4GB RAM I5 Processor 
+Refrigerator	120	#Panasonic 420 litres with 3-door
+Laptop	121	#Lenovo 500 GB HDD 6GB RAM I4 Processor
+Television	122	#Sony 72" LCD plasma TV with home theatre
+Television	123	#Onida 21" LED monitor
+Television	124	#Sony 32" LED
+Refrigerator	125	#Panasonic 320 litres Intelligent thinking
+Television	126	#Onida 72" LCD plasma with home theatre
+Television	127 	#Sony 21" LED monitor
+Television	128	#Onida 50" LED 
+Television	129	#Onida 21" LCD monitor
+Laptop	130	#Dell 320 GB HDD 4 GB RAM I3 Processor display 3D
+Refrigerator	131	#Whirlpool 360 litres with 3-door
+Laptop	132	#Dell 750 GB HDD 6GB RAM I7 Processor Laptop
+Refrigerator	133	#Panasonic 720 litres double door 3D surround Sound Intelligent thinking
+Refrigerator	134	#Panasonic 420 litres with Intelligent thinking
+Refrigerator	135	#Whirlpool 220 litres with deep freeze facility
+Laptop	136	#Lenovo 500 GB HDD 6GB RAM I4 Processor 
+Refrigerator	137	#Whirlpool 520 litres 3D 
+Laptop	138	#Lenovo 320 GB HDD 4 GB RAM I3 Processor 
+Laptop	139	#Dell 750 GB HDD 6GB RAM I7 Processor 
+Television	140	#Samsung 21" LCD 
+Laptop	141	#Dell 320 GB HDD 4 GB RAM I3 Processor with headset
+Refrigerator	142	#Panasonic 200 litres with 3-door 
+Laptop	143	#Lenovo 1TB HDD 8GB RAM I5 Processor Laptop with 3D and surround sound
+Refrigerator	144	#Whirlpool 400 litres 
+Laptop	145	#Lenovo 320 GB HDD 8GB RAM I3 Processor Laptop 
+Refrigerator	146	#Whirlpool 320 litres display Intelligent thinking 3D
+Television	147	#Samsung 50" LCD 
+Refrigerator	148	#Panasonic 400 litres
+Refrigerator	149	#Panasonic 720 litres double door
+Television	150	#Sony 43" LED
+Refrigerator	151	#Panasonic 320 litres 3D
+Laptop	152	#Dell 750 GB HDD 6GB RAM I7 Processor Laptop 3D surround Sound 
+Television	153	#Onida 42" LED TV with JBL Speakers
+Refrigerator	154	#Panasonic 720 litres double door with deep frost
+Television	155	#Onida 22" LED TV 3D
+Television	156	#Samsung 42" LED
+Television	157	#Sony 32" LCD
+Television	158	#Samsung 70" LCD plasma
+Laptop	159	#Dell 320 GB HDD 4 GB RAM I3 Processor
+Laptop	160	#Dell 320 GB HDD 4 GB RAM I3 Processor
+Television	161	#Onida 42" LCD TV
+Laptop	162	#Lenovo 500 GB HDD 4GB RAM I5 Processor 3D Laptop
+Refrigerator	163	#Whirlpool 200 litres Refrigerator
+Television	164	#Sony 32" LCD TV HD JBL Speakers
+Refrigerator	165	#Whirlpool 720 litres double door Refrigerator with deep frost
+Laptop	166	#Dell 320 GB HDD 4 GB RAM I3 Processor 3D
+Television	167	#Onida 48" LED 3D television
+Laptop	168	#Dell 750 GB HDD 6GB RAM I7 Processor 3D with headset
+Laptop	169	#Lenovo 200 GB HDD 2 GB RAM I3 Processor
+Refrigerator	170	#Whirlpool 500 litres 
+Laptop	171	#Dell 320 GB HDD 4 GB RAM I3 Processor with headset
+Laptop	172	#Lenovo 320 GB HDD 4 GB RAM I3 Processor 3D
+Television	173	#Samsung 32" LCD TV HD JBL Speakers
+Television	174	#Onida 72" LED plasma TV 3D Sorround Sound JBL Speakers
+Refrigerator	175	#Panasonic 320 litres Refrigerator
+Television	176	#Sony 50" LED TV
+Refrigerator	177	#Panasonic 200 litres Refrigerator
+Refrigerator	178	#Panasonic 360 litres Refrigerator with 3-door
+Television	179	#Samsung 70" LED plasma TV
+Refrigerator	180	#Panasonic 720 litres 3D double door Refrigerator with deep frostTelevision 102 #Sony 48" LCD TV
+Laptop	181	#Dell 500 GB HDD 4GB RAM I5 Processor Laptop with 
+Television	182	#Onida 32" TV LED display JBL Speakers 3D
+Television	183	#Onida 34" LED TV with 3D and sorround sound
+Refrigerator	184	#Whirlpool 320 litres Refrigerator with deep frost
+Refrigerator	185	#Whirlpool 200 litres Refrigerator
+Laptop	186	#Dell 500 GB HDD 6GB RAM I4 Processor Laptop
+Laptop	187	#Dell 320 GB HDD 8GB RAM I3 Processor Laptop 
+Television	188	#Samsung 32" LCD television
+Laptop	189	#Lenovo 320 GB HDD 8GB RAM I3 Processor Laptop 
+Refrigerator	190	#Whirlpool 720 litres double door with deep frost
+Refrigerator	191	#Whirlpool 320 litres Refrigerator with deep frost
+Television	192	#Samsung 50" LED TV
+Television	193	#Samsung 42" LCD TV
+Laptop	194	#Dell 320 GB HDD 8GB RAM I5 Processor with headset
+Television	195	#Onida 36" LCD TV with dvd
+Refrigerator	196	#Panasonic 420 litres 3D Refrigerator
+Television	197	#Onida 21" LCD TV
+Television	198	#Sony 34" LED 3D TV with home theatre
+Television	199	#Sony 32" LED television 3D
+Refrigerator	200	#Panasonic 720 litres double door Refrigerator with deep frost
+Refrigerator	201	#Whirlpool 420 litres 3D Refrigerator
+Laptop	202	#Lenovo 1 TB HDD 8GB RAM I7 Processor 3D Laptop
+Laptop	203	#Lenovo 500 GB HDD 6GB RAM I5 Processor Laptop
+Television	204	#Sony 42" LED 3D TV with JBL speakers
+Television	205	#Samsung 46" LED 3D television
+Refrigerator	206	#Whirlpool 340 litres Refrigerator with 3D and surround sound
+Laptop	207	#Lenovo 200 GB HDD 2 GB RAM I3 Processor Laptop
+Television	208	#Samsung 36" LED TV with 3D and sorround sound
+Laptop	209	#Dell 320 GB HDD 8GB RAM I5 Processor Laptop 3D
+Refrigerator	210	#Panasonic 200 litres single door
+Television	211	#Sony 52" LED 3D TV
+Television	212	#Onida 32" LED TV with home theatre
+Refrigerator	213	#Whirlpool 220 litres 3D
+Refrigerator	214	#Whirlpool 460 litres 
+Refrigerator	215	#Panasonic 460 litres 3D 
+Refrigerator	216	#Whirlpool 720 litres double door 
+Laptop	217	#Dell 500 GB HDD 8GB RAM I5 Processor 
+Refrigerator	218	#Whirlpool 200 litres single door
+Television 	219	#Samsung 46" LCD 
+Television	220	#Samsung 42" LED 3D 
+Television	221	#Samsung 32" LED 
+Refrigerator	222	#Whirlpool 420 litres with 3-door
+Television	223	#Onida 72" LCD plasma TV
+Laptop	224	#Dell 200 GB HDD 2 GB RAM I3 Processor 
+Television	225	#Sony 72" LED plasma TV 3D Sorround Sound JBL Speakers
+Television	226	#Samsung 32" LED 3D
+Refrigerator	227	#Panasonic 320 litres with deep frost
+Refrigerator	228	#Whirlpool 320 litres 
+Television	229	#Samsung 70" LED plasma TV 3D Sorround Sound JBL Speakers
+Television	230	#Onida 32" LCD TV HD JBL Speakers
+Television	231	#Samsung 36" LCD TV with dvd
+Refrigerator	232	#Whirlpool 420 litres 3D Refrigerator with Intelligent thinking
+Television	233	#Sony 36" LCD TV with dvd
+Laptop	234	#Lenovo 320 GB HDD 4 GB RAM I3 Processor Laptop display 3D
+Television	235	#Onida 32" LCD TV
+Television	236	#Samsung 40" LCD television
+Refrigerator	237	#Panasonic 220 litres with deep freeze facility
+Laptop	238	#Lenovo 1 TB HDD 8GB RAM I7 Processor Laptop
+Laptop	239	#Lenovo 750 GB HDD 6GB RAM I7 Processor Laptop with headset
+Laptop	240	#Lenovo 320 GB HDD 4 GB RAM I3 Processor Laptop with headset
+Laptop	241	#Lenovo 200 GB HDD 2 GB RAM I3 Processor 
+Refrigerator	242	#Panasonic 520 litres Refrigerator
+Laptop	243	#Dell 200 GB HDD 2 GB RAM I3 Processor Laptop
+Refrigerator	244	#Panasonic 200 litres single door
+Refrigerator	245	#Whirlpool 200 litres single door
+Television	246	#Samsung 50" LED 3D TV
+Television	247	#Sony 40" LED television
+Television 	248	#Samsung 40" LED 3D television
+Television	249	#Sony 72" LED 3D plasma television with home theatre
+Television	250	#Onida 21" LCD TV
+Television	251	#Sony 21" LCD TV
+Television	252	#Samsung 32" LCD TV with home theatre
+Laptop	253	#Dell 500 GB HDD 4GB RAM I5 Processor Laptop 
+Refrigerator	254	#Whirlpool 460 litres 3D Refrigerator
+Laptop	255	#Dell 200 GB HDD 2 GB RAM I3 Processor Laptop
+Television	256	#Sony 42" LED TV with JBL Speakers
+Refrigerator	257	#Panasonic 420 litres Refrigerator
+Television	258	#Samsung 36" LED TV with dvd
+Refrigerator	259	#Panasonic 220 litres Refrigerator 3D
+Laptop	260	#Lenovo 500 GB HDD 8GB RAM I5 Processor Laptop
+Television	261	#Onida 34" LED 3D TV with home theatre
+Laptop	262	#Lenovo 320 GB HDD 8GB RAM I5 Processor Laptop 3D
+Television	263	#Sony 48" LED 3D television
+Television	264	#Samsung 32" Television LED display JBL Speakers 3D
+Television	265	#Sony 22" LED TV 3D
+Refrigerator	266	#Panasonic 360 litres Refrigerator with 3-door
+Laptop	267	#Lenovo 320 GB HDD 4 GB RAM I3 Processor Laptop with headset
+Laptop	268	#Dell 500 GB HDD 6GB RAM I4 Processor Laptop
+Laptop	269	#Lenovo 320 GB HDD 4 GB RAM I3 Processor Laptop
+Television	270	#Samsung 70" LCD plasma TV with home theatre
+Television	271	#Sony 21" LCD monitor
+Television	272	#Sony 32" TV LED display JBL Speakers 3D
+Laptop	273	#Lenovo 500 GB HDD 4GB RAM I5 Processor Laptop
+Television	274	#Onida 43" LED TV
+Television	275	#Sony 42" LCD TV with DVD
+Laptop	276	#Dell 200 GB HDD 2 GB RAM I3 Processor Laptop
+Television	277	#Sony 32" LED TV with home theatre
+Television	278	#Samsung 70" LED 3D plasma television with home theatre
+Television	279	#Samsung 21" LED television 3D
+Laptop	280	#Lenovo 750 GB HDD 6GB RAM I7 Processor with headset
+Refrigerator	281	#Panasonic 460 litres Refrigerator
+Television	282	#Onida 32" LED television
+Television	283	#Sony 21" LED television
+Television	284	#Onida 42" LED 3D TV with JBL speakers
+Refrigerator	285	#Whirlpool 320 litres Refrigerator
+Refrigerator	286	#Panasonic 200 litres Refrigerator
+Television	287	#Onida 52" LCD TV
+Laptop	288	#Dell 1TB HDD 8GB RAM I5 Processor 3D Laptop with headset
+Refrigerator	289	#Whirlpool 720 litres 3D double door Refrigerator with deep frost
+Refrigerator	290	#Panasonic 200 litres Refrigerator
+Refrigerator	291	#Whirlpool 360 litres Refrigerator with 3-door
+Television	292	#Sony 21" LCD TV
+Television	293	#Onida 22" LED with music system
+Television	294	#Samsung 21" LCD monitor
+Refrigerator	295	#Whirlpool 420 litres Refrigerator
+Laptop	296	#Dell 750 GB HDD 6GB RAM I7 Processor with headset
+Refrigerator	297	#Panasonic 500 litres Refrigerator
+Television	298	#Onida 21" LED television
+Television	299	#Samsung 46" LED television
+Refrigerator	300	#Panasonic 320 litres Refrigerator with deep frost
+Laptop	301	#Lenovo 750 GB HDD 6GB RAM I7 Processor Laptop
+Laptop	302	#Lenovo 750 GB HDD 6GB RAM I7 Processor Laptop 3D surround Sound 
+Television	303	#Sony 34" LED TV with 3D and sorround sound
+Television	304	#Onida 48" LCD TV
+Refrigerator	305	#Panasonic 720 litres double door Refrigerator
+Television	306	#Samsung 21" LED monitor
+Television	307	#Onida 21" LCD with DVD player
+Television	308	#Sony 42" LCD TV
+Laptop	309	#Lenovo 750 GB HDD 6GB RAM I7 Processor 3D Laptop with headset
+Laptop	310	#Dell 320 GB HDD 4 GB RAM I3 Processor Laptop
+Refrigerator	311	#Whirlpool 420 litres Refrigerator with Intelligent thinking
+Laptop	312	#Dell 500 GB HDD 4GB RAM I5 Processor 3D Laptop
+Television	313	#Samsung 21" LCD with DVD player
+Television	314	#Onida 32" LCD TV with home theatre
+Refrigerator	315	#Whirlpool 340 litres 3D Refrigerator with deep frost
+Refrigerator	316	#Whirlpool 320 litres 3D
+Laptop	317	#Lenovo 500 GB HDD 6GB RAM I4 Processor 3D
+Refrigerator	318	#Panasonic 460 litres
+Refrigerator	319	#Whirlpool 720 litres double door
+Refrigerator	320	#Panasonic 340 litres Refrigerator with 3D and surround sound
+Television	321	#Samsung 21" LED with music system
+Refrigerator	322	#Whirlpool 320 litres Refrigerator Intelligent thinking
+Television	323	#Sony 36" LED TV with dvd
+Laptop	324	#Dell 1 TB HDD 8GB RAM I7 Processor 3D Laptop
+Refrigerator	325	#Panasonic 320 litres
+Television	326	#Samsung 32" LED TV with home theatre
+Television	327	#Onida 32" LED 3D
+Laptop	328	#Dell 1 TB HDD 8GB RAM I7 Processor
+Television	329	#Sony 32" LCD TV with home theatre
+Laptop	330	#Lenovo 200 GB HDD 2 GB RAM I3 Processor
+Television	331	#Sony 42" LED 3D 
+Television	332	#Sony 72" LED plasma TV
+Refrigerator	333	#Whirlpool 200 litres with 3-door player
+Television	334	#Onida 42" LED 3D
+Laptop	335	#Lenovo 200 GB HDD 2 GB RAM I3 Processor
+Television	336	#Onida 42" LCD TV with DVD
+Television	337	#Onida 72" LED 3D plasma with home theatre
+Laptop	338	#Lenovo 320 GB HDD 8GB RAM I5 Processor with headset
+Laptop	339	#Dell 500 GB HDD 4GB RAM I5 Processor Laptop
+Refrigerator	340	#Whirlpool 520 litres 
+Refrigerator	344	#Panasonic 420 litres with Intelligent thinking
+Laptop	345	#Lenovo 200 GB HDD 2 GB RAM I3 Processor 
+Television	346	#Sony 72" LCD plasma 
+Refrigerator	347	#Panasonic 320 litres display Intelligent thinking 3D
+Laptop	348	#Dell 500 GB HDD 6GB RAM I5 Processor
+Television	349	#Onida 72" LED plasma with home theatre
+Laptop	350	#Dell 500 GB HDD 4GB RAM I5 Processor 3D 
+Television	351	#Sony 52" LCD TV
+Television	352	#Samsung 21" LED 
+Television	353	#Sony 22" LED with music system
+Laptop	354	#Dell 200 GB HDD 2 GB RAM I3 Processor 
+Laptop	355	#Dell 1TB HDD 8GB RAM I5 Processor with 3D and surround sound
+Laptop	356	#Dell 500 GB HDD 6GB RAM I4 Processor 
+Television	357	#Sony 21" LCD with DVD player
+Television	358	#Samsung 40" LED television
+Television	359	#Onida 72" LED plasma 
+Television	360	#Sony 72" LED plasma with home theatre
+Refrigerator	361	#Whirlpool 720 litres double door 3D surround Sound Intelligent thinking

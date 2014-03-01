@@ -1,0 +1,86 @@
+Number of labels: 4
+Number of documents in training set: 257
+Item: 400	#Onida 32" LED  3D
+  Laptop: -71.06718389246339  Refrigerator: -67.03542419888183  Television : -45.7837081235819  Television: -32.29265804248855 => Television
+Item: 401	#Dell 1 TB HDD 8GB RAM I7 Processor 
+  Laptop: -92.8963253691939  Refrigerator: -184.95391243036366  Television : -126.8766568131861  Television: -203.0019786655803 => Laptop
+Item: 402	#Toshiba 32" LCD TV with home theatre
+  Laptop: -114.42794036347992  Refrigerator: -108.33303471627453  Television : -70.60254199660467  Television: -49.012302865486916 => Television
+Item: 403	#Asus 200 GB HDD 2 GB RAM I3 Processor 
+  Laptop: -64.905640184463  Refrigerator: -131.85814931763795  Television : -97.51865447375079  Television: -156.0293304711276 => Laptop
+Item: 404	#Toshiba 42" LED 3D 
+  Laptop: -53.51036806798462  Refrigerator: -50.41375704155246  Television : -34.38139966807682  Television: -27.05158199937273 => Television
+Item: 405	#Toshiba 72" LED plasma TV
+  Laptop: -88.82835905252881  Refrigerator: -84.09699304610162  Television : -54.9426320646177  Television: -38.33349570101632 => Television
+Item: 406	#Whirlpool 200 litres with 3-door player
+  Laptop: -141.5301921470205  Refrigerator: -74.79148351165952  Television : -98.92863479496911  Television: -145.31676182471278 => Refrigerator
+Item: 407	#Onida 42" LED 3D 
+  Laptop: -74.67615214394597  Refrigerator: -70.45216386609839  Television : -48.12755962951128  Television: -35.39390417017449 => Television
+Item: 408	#Asus 200 GB HDD 2 GB RAM I3 Processor 
+  Laptop: -64.905640184463  Refrigerator: -131.85814931763795  Television : -97.51865447375079  Television: -156.0293304711276 => Laptop
+Item: 409	#Onida 42" LCD TV with DVD
+  Laptop: -116.33858815059384  Refrigerator: -110.14191349530778  Television : -71.84341594757052  Television: -51.354783512093924 => Television
+Item: 410	#Onida 72" LED 3D plasma  with home theatre
+  Laptop: -153.82925723646264  Refrigerator: -145.38924701773433  Television : -99.53369890321301  Television: -72.30267305266877 => Television
+Item: 411	#Asus 320 GB HDD 8GB RAM I5 Processor with headset
+  Laptop: -70.77089185649557  Refrigerator: -147.00389733827743  Television : -108.0804470069144  Television: -172.92814256423384 => Laptop
+Item: 412	#Dell 500 GB HDD 4GB RAM I5 Processor 
+  Laptop: -69.22983904293814  Refrigerator: -153.3054238443662  Television : -108.64275785366111  Television: -173.8278369397152 => Laptop
+Item: 413	#Whirlpool 520 litres 
+  Laptop: -73.29875499408087  Refrigerator: -37.46175018858487  Television : -47.6040201254328  Television: -76.16617997846417 => Refrigerator
+Item: 414	#Panasonic 420 litres  with Intelligent thinking
+  Laptop: -127.92290744793766  Refrigerator: -53.386071945030885  Television : -83.07978302151601  Television: -132.92721264958524 => Refrigerator
+Item: 415	#Asus 200 GB HDD 2 GB RAM I3 Processor 
+  Laptop: -64.905640184463  Refrigerator: -131.85814931763795  Television : -97.51865447375079  Television: -156.0293304711276 => Laptop
+Item: 416	#Toshiba 72" LCD plasma TV
+  Laptop: -92.37086961288529  Refrigerator: -87.450814833847  Television : -56.2775341570555  Television: -40.485940939948115 => Television
+Item: 417	#Panasonic 320 litres  display Intelligent thinking 3D
+  Laptop: -138.50476113435963  Refrigerator: -77.31858022945174  Television : -106.26149755245997  Television: -152.8150666275311 => Refrigerator
+Item: 418	#Dell 500 GB HDD 6GB RAM I5 Processor 
+  Laptop: -66.3048451413019  Refrigerator: -148.85499509007758  Television : -105.58980528666952  Television: -168.9431290081058 => Laptop
+Item: 419	#Onida 72" LED plasma with home theatre
+  Laptop: -145.4683514728317  Refrigerator: -137.7201050736997  Television : -91.72758617875229  Television: -65.09140245514477 => Television
+Item: 420	#Dell 500 GB HDD 4GB RAM I5 Processor 3D 
+  Laptop: -77.59074480656908  Refrigerator: -160.97456578840084  Television : -116.44887057812181  Television: -181.0391075372392 => Laptop
+Item: 421	#Toshiba 52" LCD TV
+  Laptop: -73.11240549974235  Refrigerator: -69.21813621773254  Television : -43.77008688457434  Television: -36.078177810886885 => Television
+Item: 422	#Samsung 21" LED 
+  Laptop: -63.36761907761442  Refrigerator: -59.99239744783337  Television : -32.81618112411437  Television: -25.773326337733373 => Television
+Item: 423	#Toshiba 22" LED with music system
+  Laptop: -127.69872475113976  Refrigerator: -120.89696220822982  Television : -80.18706726885866  Television: -77.13483125983858 => Television
+Item: 424	#Dell 200 GB HDD 2 GB RAM I3 Processor 
+  Laptop: -73.60130233603229  Refrigerator: -152.0801014935714  Television : -111.39072483227629  Television: -178.22456954583936 => Laptop
+Item: 425	#Dell 1TB HDD 8GB RAM I5 Processor  with 3D and surround sound
+  Laptop: -117.24307348029443  Refrigerator: -189.5212206831203  Television : -148.61527305954115  Television: -220.2908145544938 => Laptop
+Item: 426	#Dell 500 GB HDD 6GB RAM I4 Processor 3D 
+  Laptop: -85.01964850418315  Refrigerator: -164.71148219302503  Television : -119.01236033607748  Television: -185.140677567731 => Laptop
+Item: 427	#Toshiba 21" LCD with DVD player
+  Laptop: -109.8742825236305  Refrigerator: -95.69437644930952  Television : -67.64515998554552  Television: -57.55916263580133 => Television
+Item: 428	#Samsung 40" LED 
+  Laptop: -72.47488449330046  Refrigerator: -68.61457221838204  Television : -30.403365413852086  Television: -35.92154428935818 => Television 
+Item: 429	#Onida 72" LED plasma TV
+  Laptop: -109.99414312849015  Refrigerator: -104.13539987064755  Television : -68.68879202605216  Television: -46.675817871818076 => Television
+Item: 430	#Toshiba 72" LED plasma with home theatre
+  Laptop: -124.30256739687034  Refrigerator: -117.68169824915378  Television : -77.98142621731783  Television: -56.74908028434302 => Television
+Item: 431	#Whirlpool 720 litres double door  3D surround Sound Intelligent thinking
+  Laptop: -226.59227149276865  Refrigerator: -116.4024955944094  Television : -163.31209788691862  Television: -243.80565640954012 => Refrigerator
+Item: 432	#Samsung 440 litres 
+  Laptop: -37.388854720335495  Refrigerator: -24.900789668652656  Television : -18.69134154437006  Television: -25.36029566972016 => Television 
+Item: 433	#Toshiba 500 GB HDD 4 GB RAM 
+  Laptop: -45.261100762835575  Refrigerator: -98.72972859070387  Television : -71.20434054174281  Television: -113.92656760206613 => Laptop
+Item: 434	#Dell 800 GB HDD 8 GB RAM I3 Processor 
+  Laptop: -44.09323764962914  Refrigerator: -111.20645684228903  Television : -76.28659093925259  Television: -122.05814131059714 => Laptop
+Item: 435	#Dell 4TB HDD 8GB RAM I7 Processor 
+  Laptop: -51.03995812494085  Refrigerator: -116.95953167586752  Television : -80.23314655242643  Television: -128.37260938148646 => Laptop
+Item: 436	#Dell 500 GB HDD Monitor
+  Laptop: -65.07125537143881  Refrigerator: -102.0194608805355  Television : -73.4610661727909  Television: -102.0979720321051 => Laptop
+Item: 437	#Toshiba 21" LCD TV with DVD player
+  Laptop: -126.8096462265859  Refrigerator: -111.72769259689736  Television : -78.64386514243549  Television: -63.41176652033414 => Television
+Item: 438	#Samsung 14" screen 500 GB 
+  Laptop: -38.37489881250592  Refrigerator: -54.703154519925775  Television : -35.41159840208476  Television: -52.11261805247752 => Television 
+Item: 439	#Onida 500 litres 
+  Laptop: -48.703476235021284  Refrigerator: -43.32675806738621  Television : -40.398975927872996  Television: -50.98668650145364 => Television 
+Item: 440	#Toshiba 72" LED plasma with home theatre and play station
+  Laptop: -124.30256739687034  Refrigerator: -117.68169824915378  Television : -77.98142621731783  Television: -56.74908028434302 => Television
+Item: 441	#Whirlpool 300 litres single door  3D surround Sound Intelligent thinking
+  Laptop: -204.57501504003432  Refrigerator: -111.59808367800929  Television : -149.01294752116658  Television: -220.9270915860805 => Refrigerator
